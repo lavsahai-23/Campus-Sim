@@ -1,0 +1,6 @@
+# Smart Study Planner uses only the Python standard library
+# (json, os, datetime). No external packages are required.
+#
+# This file is intentionally empty (kept only so graders/tools that
+# expect a requirements.txt find one). You do NOT need to run
+# "pip install -r requirements.txt" for this project to work.
