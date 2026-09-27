@@ -1,6 +1,4 @@
 # Campus-SimSmart Study Planner
-A terminal-based, personalized study schedule generator built for a
-Python Essentials college course project.
 
 Table of Contents
 Project Overview
