@@ -18,3 +18,13 @@ On first run, you'll be asked to set up a student profile (name,
 daily study hours, available days, session length).
 Use the numbered menu to add tasks, view the auto-generated
 schedule, check deadline alerts, and track progress.
+How to Run
+Open a terminal in the smart-study-planner folder (all files
+must stay together — main.py, planner.py, scheduler.py,
+storage.py, utils.py).
+Run:
+python3 main.py
+On first run, you'll be asked to set up a student profile (name,
+daily study hours, available days, session length).
+Use the numbered menu to add tasks, view the auto-generated
+schedule, check deadline alerts, and track progress.
